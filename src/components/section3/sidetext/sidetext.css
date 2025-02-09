@@ -1,0 +1,6 @@
+.side {
+    transform: rotate(-90deg);
+    color: #DBDBDB;
+    width: 600px;
+    height: 1px;
+}

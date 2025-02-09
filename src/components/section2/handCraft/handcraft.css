@@ -1,0 +1,20 @@
+.hand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+    padding: 5vh 0vh;
+}
+.hand .rotate {
+    transform: rotate(-90deg);
+    color: #DBDBDB;
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 5vh;
+}
+.pottery{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}

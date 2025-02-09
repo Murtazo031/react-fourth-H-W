@@ -1,0 +1,13 @@
+.pages {
+    display: flex;
+    align-items: center;
+    gap: 5vh;
+    border-right: 1px solid #ecec;
+    padding-right: 2vh;
+    height: 5vh;
+}
+.pages a {
+    font-size: 16px;
+    color: #6C6C6C;
+    text-decoration: none;
+}

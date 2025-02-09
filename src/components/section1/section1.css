@@ -1,0 +1,10 @@
+.section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("@/app/assets/image/bacground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    padding: 5vh 0;
+}

@@ -1,0 +1,28 @@
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-bottom: 5vh;
+}
+.text h1 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 1.5vh 0;
+}
+.btn {
+    border: none;
+    background-color: #AC1313;
+    padding: 3vh 5vh;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+}
+.right-side {
+    position: relative;
+}
+.image  {
+    position: absolute;
+    left: 44vh;
+    top: 6vh;
+}
