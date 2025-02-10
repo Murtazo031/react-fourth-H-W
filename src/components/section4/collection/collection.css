@@ -35,7 +35,6 @@
     border: none;
     cursor: pointer;
     display: flex;
-    width: 40vh;
     margin: auto; 
-    margin-top: 3vh;   
+    margin-top: 3vh;  
 }

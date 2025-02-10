@@ -1,0 +1,9 @@
+.rights p {
+    color: grey;
+}
+.rights p span {
+    color:  #000
+}
+.rights {
+    text-align: center;
+}
