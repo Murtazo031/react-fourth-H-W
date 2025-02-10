@@ -26,3 +26,11 @@
     left: 44vh;
     top: 6vh;
 }
+@media (max-width:768px) {
+    .right-side {
+        width: 90%;
+    }
+    .image {
+       display: none;
+    }
+}

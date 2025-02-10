@@ -9,3 +9,9 @@
     align-items: baseline;
     gap: 1vh;
 }
+@media (max-width: 768px) {
+    .headersec2 {
+        width: 90%;
+        margin: auto;
+    }
+}

@@ -6,3 +6,10 @@
     gap: 108vh;
     padding: 2vh 0;
 }
+@media (max-width: 768px) {
+    .navbar {
+        width: 90%;
+        justify-content: space-between;
+        gap: 0vh;
+    }
+}

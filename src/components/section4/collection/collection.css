@@ -38,3 +38,21 @@
     margin: auto; 
     margin-top: 3vh;  
 }
+@media (max-width:768px) {
+    .collection {
+        grid-template-columns: repeat(1,1fr);
+        margin: 0;
+        padding: 1vh;
+        place-items: start;
+    }
+    .collect {
+     width: 80%;
+     margin-left: 0;    
+    }
+    .viewbtn {
+        margin-top: 5vh;
+        font-size: 16px;
+        padding: 2vh 3vh;
+    }
+    
+}

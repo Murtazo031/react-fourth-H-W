@@ -29,3 +29,11 @@
     font-weight: 500;
     color: grey;
 }
+@media (max-width:768px){
+    .inpsub {
+        flex-direction: column;
+    }
+    .inpsub button {
+        width: 100%;
+    }
+}

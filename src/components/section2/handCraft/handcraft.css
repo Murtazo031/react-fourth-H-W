@@ -18,3 +18,13 @@
   justify-content: space-between;
   width: 80%;
 }
+@media (max-width:768px) {
+  .rotate {
+    display: none;
+  }
+  .pottery {
+    width: 90%;
+    flex-direction: column;
+    gap: 5vh;
+  }
+}

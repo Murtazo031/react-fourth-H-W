@@ -17,3 +17,23 @@
     font-weight: 600;
     padding: 3vh 5vh;
 }
+.section5 .p2 {
+    width: 35%;
+    color:grey ;
+}
+@media (max-width: 768px) {
+    .section5 {
+        padding: 3vh;
+        margin: 2vh 0;
+    }
+    .section5 h1 {
+        font-size: 24px;
+    }
+     .section5 .p2 {
+        width: 90%;
+        color: rgb(44, 42, 42);
+     }
+     .section5 button {
+        font-size: 12px;
+     }
+}

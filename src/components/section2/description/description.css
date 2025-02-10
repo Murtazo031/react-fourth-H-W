@@ -15,3 +15,15 @@
     padding: 5vh;
     width: 40%;
 }
+@media (max-width: 768px) {
+    .description {
+        flex-direction: column;
+    }
+   .righttext {
+    width: 90%;
+    }
+   .lefttext {
+    width: 90%;
+    
+   }
+}

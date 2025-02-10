@@ -22,7 +22,7 @@ createRoot(document.getElementById("root")).render(
       <Section4/>
       <Section5 />
       <Section6/>
-      <Footer/>
+      <Footer/> 
     </div>
   </StrictMode>
 );

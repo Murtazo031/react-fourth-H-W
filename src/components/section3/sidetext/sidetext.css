@@ -4,3 +4,8 @@
     width: 600px;
     height: 1px;
 }
+@media (max-width:768px){
+    .side {
+        display: none;
+    }
+}

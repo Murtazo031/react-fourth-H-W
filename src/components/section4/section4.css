@@ -5,3 +5,11 @@
     gap: 5vh;
     padding: 7vh 0;
 }
+@media (max-width:768px) {
+    .sec4 {
+        width: 80%;
+        margin: auto;
+        padding: 0;
+        margin: 0;
+    }
+}

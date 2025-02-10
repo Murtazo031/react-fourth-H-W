@@ -11,3 +11,8 @@
     color: #6C6C6C;
     text-decoration: none;
 }
+@media (max-width: 768px) {
+    .pages {
+        display: none;
+    }
+}

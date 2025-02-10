@@ -2,3 +2,9 @@
     border-bottom: 1px solid rgb(219, 217, 217);
     padding: 7vh 0;
 }
+@media (max-width: 768px) { 
+    .section2 {
+        width: 85%;
+        margin: auto;
+    }
+}
